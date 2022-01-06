@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binshams339971
-- 👀 I’m interested in java script
-- 🌱 I’m currently learning react js
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning solidity
 - 📫 Reach me out @binshams339971 in linkedin
 
 <!---
